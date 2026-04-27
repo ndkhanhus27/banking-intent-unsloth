@@ -53,11 +53,11 @@
 
 ## 🌞 Overview
 
-This project implements a **complete end-to-end pipeline for banking intent classification** using the **BANKING77 dataset** and **Unsloth framework**.
+This project implements a **complete end-to-end pipeline for banking intent classification** using the **[BANKING77 Dataset](https://huggingface.co/datasets/PolyAI/banking77)** and **Unsloth framework**.
 
 ### 🎯 Objectives
 
-- Sample a subset of BANKING77 dataset
+- Sample a subset of [BANKING77 Dataset](https://huggingface.co/datasets/PolyAI/banking77)
 - Perform preprocessing and data splitting
 - Fine-tune a model using Unsloth
 - Evaluate performance on test set
@@ -299,7 +299,7 @@ https://drive.google.com/file/d/1MDdwB_2dGtV_xhKEmIpSG5eGnFAVMlPP/view?usp=shari
 ## ✨ Acknowledgments
 
 - Lecturer: Dr. Nguyen Hong Buu Long
-- Dataset: BANKING77
+- Dataset: [BANKING77](https://huggingface.co/datasets/PolyAI/banking77)
 - Framework: Unsloth + HuggingFace
 
 ---
