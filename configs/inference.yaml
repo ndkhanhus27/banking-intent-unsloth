@@ -1,0 +1,3 @@
+base_model: "unsloth/mistral-7b-bnb-4bit"
+adapter_model: "ndkhanhus27/banking-intent-model-v2"
+max_seq_length: 256

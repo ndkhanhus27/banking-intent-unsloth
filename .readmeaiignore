@@ -1,0 +1,10 @@
+# Ignore everything first
+*
+
+# Then whitelist lại file cần
+!scripts/
+!configs/
+!requirements.txt
+!train.sh
+!inference.sh
+!README.md

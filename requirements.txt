@@ -1,0 +1,17 @@
+unsloth
+transformers
+torch
+datasets
+pandas
+tqdm
+pyyaml
+accelerate
+bitsandbytes
+
+trl
+peft
+sentencepiece
+protobuf
+
+einops
+scipy
