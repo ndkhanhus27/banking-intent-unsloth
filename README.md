@@ -123,7 +123,7 @@ Pipeline includes:
 After training, model is saved to:
 
 ```bash
-output_dir/
+model/
 ```
 
 Includes:
